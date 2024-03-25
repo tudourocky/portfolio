@@ -15,7 +15,7 @@ const Home = () => {
                 
                 <HeaderSocials />
 
-                <a href="#contact" className="btn">Hire Me</a>
+                <a href="https://tudourocky.github.io/" className="btn">My Blog</a>
 
                 <ScrollDown />
             </div>
