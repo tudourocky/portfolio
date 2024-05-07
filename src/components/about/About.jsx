@@ -13,8 +13,7 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">I am Allan Su, a 1B computer engineering student at the University of Waterloo with. I am excited about the technical world and is excited to learn all about computer engineering.</p>
-                        {/* TODO : Add resume after updating the resume */}
-                        <a href="#" className="btn">Download CV</a>
+                        <a href="https://drive.google.com/file/d/1GNcma2uPTBMRNVt4jfw79ywNB74yie8-/view?usp=sharing" className="btn">Download CV</a>
                     </div>
 
                     <div className="about__skills grid">
