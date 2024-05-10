@@ -8,18 +8,18 @@ const Menu = [
     {
       id: 1,
       image: Work1,
-      title: "Gitlet",
-      category: "Java",
+      title: "MyChat",
+      category: "Javascript",
       // TODO : Update link when finished
-      link: "https://github.com/tudourocky",
+      link: "https://github.com/tudourocky/MyChat-Backend",
     },
     {
       id: 2,
       image: Work2,
-      title: "Nand2Tetris",
+      title: "Live Album",
       category: "CPP",
       // TODO : Update link when finished
-      link: "https://github.com/tudourocky",
+      link: "https://github.com/tudourocky/QTLiveAlbum",
     },
     {
       id: 3,
